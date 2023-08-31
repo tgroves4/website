@@ -1,0 +1,204 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  background-color: #ffc27b;
+  margin: 0px;
+}
+
+/* p{
+  width: 100%;
+  color: #bc520b;
+  font-family: serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 25px;
+} */
+
+header {
+  font-size: 40px;
+  margin: 0px;
+  width: 200px;
+}
+
+.bio{
+  background-color: #eaf282;
+  margin: 0px;
+  width: width;
+  border: 5px solid red;
+  border-radius: 1%;
+  font-size: 25;
+  width: 100%;
+  color: #bc520b;
+  font-family: serif;
+  text-align: center;
+  line-height: 8px;
+  font-size: 25px;
+}
+
+img {
+  
+}
+
+#email{
+  text-decoration: none;
+  background-color: #575757;
+  margin-top: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top: 50px;
+  
+  
+}
+
+#linkedin{
+  text-decoration: none;
+  background-color: #575757;
+  margin-top: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top: 50px;
+  left: 70px;
+
+}
+
+#strava{
+  text-decoration: none;
+  background-color: #575757;
+  margin-top: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top: 50px;
+  left: 155px;
+}
+
+h1{
+  background-color: #ff6600;
+  text-align: center;
+  width: width/2;
+  height: 80px;
+  font-size: 60px;
+}
+
+#portrait{
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#progress{
+  position: absolute;
+  top: 40%;
+  right: 10%
+}
+
+#ant{
+  width: 50%;
+  height: 400px;
+  position: absolute;
+  top: 95%;
+  left: 55%;
+  max-width: 500px;
+}
+
+#balls{
+  width: 50%;
+  height: 400px;
+  position: absolute;
+  top: 145%;
+  left: 55%;
+  max-width: 500px;
+  margin-bottom: 10px;
+}
+
+#projectheader{
+  width: 98%;
+  padding-right: 10px;
+  position: absolute;
+  top: 85%;
+
+  text-align: center;
+  background: orange;
+}
+
+.antheader{
+  width: 40%;
+  text-align: center;
+  position: relative;
+  top: 40px;
+  left: 100px;
+  font-size: 50px;
+}
+
+.anttext{
+  width: 40%;
+  text-align: center;
+  position: relative;
+  top: 30px;
+  left: 100px;
+  font-size: 30px;
+}
+
+#antgit{
+  text-decoration: none;
+  background-color: #575757;
+  margin-top: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top: 1100px;
+  left: 350px;
+}
+
+.ballheader{
+  width: 40%;
+  text-align: center;
+  position: relative;
+  top: 80px;
+  left: 100px;
+  font-size: 50px;
+}
+
+.balltext{
+  width: 40%;
+  text-align: center;
+  position: relative;
+  top: 70px;
+  left: 100px;
+  font-size: 30px;
+}
+
+#ballgit {
+  text-decoration: none;
+  background-color: #575757;
+  margin-top: 5px;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  top: 1550px;
+  left: 350px;
+}
+
+#pizza{
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  left: 1000px;
+  top: 210px;
+  border: 10px solid #eb9647;
+  border-radius: 1%;
+}
