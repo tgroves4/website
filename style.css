@@ -19,6 +19,8 @@ header {
   font-size: 40px;
   margin: 0px;
   width: 200px;
+  position: relative;
+  left: 640px;
 }
 
 .bio{
@@ -122,11 +124,11 @@ h1{
 }
 
 #projectheader{
-  width: 98%;
+  width: 105%;
   padding-right: 10px;
   position: absolute;
   top: 85%;
-
+  left: -10px;
   text-align: center;
   background: orange;
 }
@@ -198,6 +200,18 @@ h1{
   margin-right: auto;
   position: absolute;
   left: 1000px;
+  top: 210px;
+  border: 10px solid #eb9647;
+  border-radius: 1%;
+}
+
+#suit{
+  width: 400px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  left: 50px;
   top: 210px;
   border: 10px solid #eb9647;
   border-radius: 1%;
